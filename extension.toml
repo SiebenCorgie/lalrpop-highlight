@@ -1,0 +1,12 @@
+id = "lalrpop-highlight"
+name = "LALRPOP Highlight"
+version = "0.0.1"
+schema_version = 1
+authors = ["Tendsin Mende <tendsin@protonmail.com>"]
+description = "LALRPOP LR(1) parser DSL language support for Zed."
+repository = "https://github.com/SiebenCorgie/lalrpop-highlight"
+
+
+[grammars.lalrpop]
+repository = "https://github.com/traxys/tree-sitter-lalrpop.git"
+commit = "27b0f7bb55b4cabd8f01a933d9ee6a49dbfc2192"

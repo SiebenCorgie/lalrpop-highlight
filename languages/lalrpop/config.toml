@@ -1,0 +1,6 @@
+name = "Lalrpop"
+grammar = "lalrpop"
+path_suffixes = ["lalrpop"]
+line_comments = ["//"]
+tab_size = 4
+hard_tabs = false
